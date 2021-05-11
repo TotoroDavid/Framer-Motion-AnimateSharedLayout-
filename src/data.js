@@ -6,7 +6,7 @@ export const items = [
         title: "5 Food Apps Delivering the Best of Your City",
         pointOfInterest: 80,
         backgroundColor: "#814A0E",
-        image: "https://picsum.photos/seed/picsum"
+        image: "https://avatars.githubusercontent.com/u/69094048?v=4"
     },
     // Photo by Dennis Brendel on Unsplash
     {

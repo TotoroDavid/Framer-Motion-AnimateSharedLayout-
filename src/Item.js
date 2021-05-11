@@ -39,10 +39,11 @@ export function Item({ id }) {
                     </motion.div>
                     <motion.div className="content-container" animate>
                         <LoremIpsum
-                            p={6}
-                            avgWordsPerSentence={6}
-                            avgSentencesPerParagraph={4}
+                            p={4}
+                            avgWordsPerSentence={4}
+                            avgSentencesPerParagraph={2}
                         />
+                        <a href="#">vver mas</a>
                     </motion.div>
                 </motion.div>
             </div>
